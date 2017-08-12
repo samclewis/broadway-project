@@ -5,7 +5,7 @@
 }
 
 .header {
-  background-image: url("./resources/images/the-flatiron-building.png");
+  background-image: url("css/resources/images/the-flatiron-building.png");
 }
 
 nav {
@@ -41,7 +41,7 @@ p {
 
 #designed {
   color: white;
-  background-image: url("./resources/images/the-flatiron-building.png");
+  background-image: url("css/resources/images/the-flatiron-building.png");
 }
 
 footer {
