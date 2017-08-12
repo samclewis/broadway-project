@@ -5,7 +5,7 @@
 }
 
 .header {
-  background-image: url("css/resources/images/the-flatiron-building.png");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 
 nav {
@@ -16,8 +16,12 @@ h1 {
   font-weight: bold;
 }
 
-h3 {
+ul {
   font-size: 18px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
 }
 
 p, h2 {
@@ -41,7 +45,7 @@ p {
 
 #designed {
   color: white;
-  background-image: url("css/resources/images/the-flatiron-building.png");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 
 footer {
